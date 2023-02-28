@@ -1,0 +1,86 @@
+/* Grupales */
+
+body{
+    font-family: sans-serif;
+    margin: 0;
+}
+header{
+  background-color: hsl(234, 97%, 23%);
+  display: flex;
+    border: 2px solid green;
+    height: auto;
+  width: 1000px;
+  border-top-left-radius: 50px 50px;
+  border-top-right-radius: 50px 50px;
+}
+table{
+  width: 50%;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+/* Por unidad */
+
+.foto{
+  display: flex;
+}
+.h1{
+    color:#000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .contenedor{
+    background-color:black;
+    padding: 10px 50px 20px;
+  }
+  .profesion{
+    font-family: sans-serif;
+    color:#000000;
+  }
+  .datos{
+    background-color: gray;
+    border: 1px solid lightslategray;
+    height: 250px;
+  width: 1000px;
+  }
+  .contacto{
+    background-color: gray;
+    border: 1px solid lightslategray;
+    height: 105px;
+  width: 1000px;
+  }
+  .habilidades{
+    background-color: gray;
+    border: 1px solid lightslategray;
+    height: 180px;
+  width: 1000px;
+  }
+  .sobre_mi{
+    background-color: gray;
+    border: 1px solid lightslategray;
+    height: 150px;
+  width: 1000px;
+  }
+  .idiomas{
+    background-color: gray;
+    border: 1px solid lightslategray;
+    height: 150px;
+  width: 1000px;
+  }
+  .redes{
+    background-color: gray;
+    border: 1px solid lightslategray;
+    height: 120px;
+  width: 1000px;
+  }
+  .footer{
+    background-color: gray;
+    border: 1px solid lightslategray;
+    height: 75px;
+  width: 1000px;
+  border-bottom-left-radius: 50px 50px;
+  border-bottom-right-radius: 50px 50px;
+  }
+  
